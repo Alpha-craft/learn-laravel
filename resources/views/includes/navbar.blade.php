@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Post</a>
+          <a class="nav-link" href="/post">Post</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="">Category</a>
