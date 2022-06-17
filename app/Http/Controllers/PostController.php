@@ -16,7 +16,7 @@ class PostController extends Controller
     {
         //
         return view('posts', [
-            'data' => Posts::test()
+            'data' => Posts::all()
         ]);
     }
 
